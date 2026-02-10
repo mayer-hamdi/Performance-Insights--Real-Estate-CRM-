@@ -37,12 +37,7 @@ I designed an integrated suite of two features that work within a CRM dashboard 
 ## 📂 Repository Guide
 This repo documents the entire product thinking and design process:
 
-| Directory | Contents |
-| :--- | :--- |
-| **[`01-research-problem-definition/`](01-research-problem-definition/)** | The foundational research: a detailed problem statement and notes from user interviews validating the pain points. |
-| **[`02-product-definition/`](02-product-definition/)** | The product blueprint: complete Product Requirements Document (PRD), user stories, and defined success metrics. |
-| **[`03-design-prototype/`](03-design-prototype/)** | The design journey: from initial wireframes to the final high-fidelity, interactive Figma prototype. |
-| **[`04-project-management/`](04-project-management/)** | A snapshot of the project timeline and workflow, managed in Jira. |
+
 
 **🎨 Experience the Solution:** The best way to understand this proposal is to interact with it. **[Access the main Figma prototype here.]([https://www.figma.com/make/phhFC4zbvabMbah1jor1xu/Create-CRM-Dashboard-Prototype?t=U3Yek6tWxDdhFEaF-1])**
 
